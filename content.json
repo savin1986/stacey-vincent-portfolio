@@ -1,0 +1,172 @@
+{
+  "categories": [
+    {
+      "id": "communications",
+      "icon": "\u25cc",
+      "title": "Communications",
+      "description": "Audience-focused communications that translate organizational priorities into clear, credible and purposeful narratives.",
+      "works": [
+        "Executive or institutional announcement",
+        "Stakeholder communications package",
+        "Public information or awareness campaign",
+        "Community or partnership communications",
+        "High-profile organizational message"
+      ]
+    },
+    {
+      "id": "creative",
+      "icon": "\u2727",
+      "title": "Creative & Branding",
+      "description": "Brand systems, campaign creative, media kits and visual communications developed to strengthen recognition and consistency.",
+      "works": [
+        "Brand or media kit",
+        "Campaign identity and creative suite",
+        "Presentation or event collateral",
+        "Digital advertising or social creative",
+        "Messaging framework or brand-voice guide"
+      ]
+    },
+    {
+      "id": "email",
+      "icon": "\u2709",
+      "title": "Email Marketing",
+      "description": "Strategic email content designed to inform, engage and move audiences through launches, campaigns and ongoing relationship-building.",
+      "works": [
+        "Promotional campaign email",
+        "Newsletter or recurring editorial email",
+        "Launch or event email sequence",
+        "Audience nurture or follow-up sequence",
+        "Performance-informed optimization example"
+      ]
+    },
+    {
+      "id": "articles",
+      "icon": "\u2726",
+      "title": "Industry & Feature Articles",
+      "description": "Long-form editorial content, thought leadership, profiles and educational articles written for varied sectors and audiences.",
+      "works": [
+        "Higher education or academic-exchange feature",
+        "Trades, construction or homeowner education article",
+        "Manufacturing, shipping or storage industry article",
+        "Executive or organizational profile",
+        "Thought-leadership or issue-based article"
+      ]
+    },
+    {
+      "id": "corporate",
+      "icon": "\u25a6",
+      "title": "Internal & Corporate",
+      "description": "Executive, employee and organizational communications that support alignment, clarity and trust during change and growth.",
+      "works": [
+        "Executive speaking notes or leadership message",
+        "Internal change-communications plan",
+        "Board or senior-leadership briefing",
+        "Employee announcement or internal campaign",
+        "Acquisition, crisis or operational update"
+      ]
+    },
+    {
+      "id": "press",
+      "icon": "\u25a4",
+      "title": "Press Releases & PR",
+      "description": "Media materials, public announcements and reputation-focused communications developed for journalists, partners and stakeholders.",
+      "works": [
+        "Major announcement press release",
+        "Partnership or program-launch release",
+        "Media advisory or event release",
+        "Crisis or issues-management statement",
+        "Media pitch, briefing note or coverage package"
+      ]
+    },
+    {
+      "id": "public-sector",
+      "icon": "\u25c7",
+      "title": "Public Sector Communications",
+      "description": "Communications for public institutions, municipal environments and stakeholder groups requiring accessibility and institutional sensitivity.",
+      "works": [
+        "Public information campaign",
+        "Briefing materials for elected officials",
+        "Community-consultation communications",
+        "Stakeholder or advocacy presentation",
+        "Accessible public-facing web or print content"
+      ]
+    },
+    {
+      "id": "social",
+      "icon": "#",
+      "title": "Social Media",
+      "description": "Platform-specific campaigns, editorial planning and creative content connecting organizational priorities with audience interests.",
+      "works": [
+        "Integrated social-media campaign",
+        "Editorial calendar or channel strategy",
+        "Instagram carousel or visual story",
+        "LinkedIn thought-leadership series",
+        "Event, community or awareness campaign"
+      ]
+    },
+    {
+      "id": "strategy",
+      "icon": "\u25ce",
+      "title": "Strategic Planning & Marketing",
+      "description": "Integrated communications strategies, campaign frameworks, audience planning and measurable execution across channels.",
+      "works": [
+        "Integrated communications strategy",
+        "Audience segmentation and messaging framework",
+        "Editorial calendar or content-governance plan",
+        "Campaign performance report or dashboard",
+        "Stakeholder-engagement or launch plan"
+      ]
+    },
+    {
+      "id": "technical",
+      "icon": "\u2318",
+      "title": "Technical Documentation",
+      "description": "Clear, structured documentation and instructional materials that make complex systems and processes easier to understand.",
+      "works": [
+        "User guide or procedural documentation",
+        "Software onboarding or training materials",
+        "Knowledge-base or FAQ content",
+        "Process map or workflow documentation",
+        "Technical web content or instructional script"
+      ]
+    },
+    {
+      "id": "web",
+      "icon": "\u25a3",
+      "title": "Websites & Intranets",
+      "description": "Digital content, information architecture and project leadership supporting accessible and strategically aligned web experiences.",
+      "works": [
+        "Website redesign case study",
+        "Intranet restructure or information architecture",
+        "Content audit and migration plan",
+        "UX or card-sorting workshop outputs",
+        "Website governance, SEO or analytics report"
+      ]
+    },
+    {
+      "id": "awards",
+      "icon": "\u2605",
+      "title": "Winning Award Submissions",
+      "description": "Evidence-based award narratives articulating organizational impact, leadership, innovation and community value.",
+      "works": [
+        "Winning organizational award submission",
+        "Leadership or executive nomination",
+        "Community-impact or CSR award",
+        "Innovation or growth award package",
+        "Supporting evidence matrix or submission strategy"
+      ]
+    }
+  ],
+  "industries": [
+    "Public Service & Government Relations",
+    "Higher Education & Academic Exchange",
+    "Non-Profit & Community Organizations",
+    "Real Estate & Housing",
+    "Construction, Trades & Infrastructure",
+    "Energy & Natural Resources",
+    "Manufacturing, Shipping & Logistics",
+    "Retail & Commercial Business",
+    "Agriculture & Land Use",
+    "Private Sector Services & B2B"
+  ]
+}
